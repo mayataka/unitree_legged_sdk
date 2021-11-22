@@ -5,7 +5,7 @@
 #ifndef _UNITREE_LEGGED_LCM_H_
 #define _UNITREE_LEGGED_LCM_H_
 
-#include "comm.h"
+#include "unitree_legged_sdk/comm.h"
 #include <lcm/lcm-cpp.hpp>
 #include <string.h>
 

@@ -5,7 +5,7 @@
 #ifndef _UNITREE_LEGGED_LCM_SERVER_
 #define _UNITREE_LEGGED_LCM_SERVER_
 
-#include "comm.h"
+#include "unitree_legged_sdk/comm.h"
 #include "unitree_legged_sdk/unitree_legged_sdk.h"
 
 namespace UNITREE_LEGGED_SDK
